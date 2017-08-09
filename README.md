@@ -25,4 +25,7 @@ Juror ratings are averaged; the cook with the best points average wins.
 * Vegan food
 * Vegetarian food
 * Seasonal food
+* Local food
 * Use the same alcohol for cooking and mixing cocktails
+* Bavarian-X fusion
+* Cooking using a given set of products
